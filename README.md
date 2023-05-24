@@ -1,1 +1,4 @@
-# Shoe Classification: Boots :boot:
+# Shoe Classification: 
+Boots :boot:
+Slippers :slipper:
+Sandals :sandal:
