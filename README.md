@@ -1,2 +1,1 @@
-# Shoe Classification: Boots :boot: Slippers 🩰 Sandals :sandal: :date:
-
+# Shoe Classification :date: Boots :boot: Slippers 🩰 Sandals :sandal: 
