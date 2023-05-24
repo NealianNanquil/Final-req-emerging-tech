@@ -1,4 +1,4 @@
 # Shoe Classification: 
 # Boots :boot:
-# Slippers :slipper:
+# Slippers 🩰
 # Sandals :sandal:
